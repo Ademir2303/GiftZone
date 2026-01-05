@@ -1,37 +1,19 @@
-# 🎁 GiftZone Landing Page
-Bem-vindo ao repositório da GiftZone, uma landing page moderna e responsiva para uma loja de gift cards!
+## GiftZone – Online Gift Card Store
 
-## Tecnologias
-<br>
+GiftZone is an academic front-end project built with React.  
+It simulates an online gift card store and is used to demonstrate my current front-end development skills.
 
-Este projeto foi desenvolvido utilizando as seguintes tecnologias: 
+## Features
+- Responsive layout
+- Gift card catalog
+- Hero section
+- Reusable React components
 
-- React: Biblioteca JavaScript para construção de interfaces de usuário.
-- HTML5 & CSS3: Para a estrutura e estilização da página.
-- JavaScript (ES6+): Para lógica e interatividade.
+## Technologies
+- React
+- JavaScript (ES6+)
+- HTML5
+- CSS3
 
-
-
-## Funcionalidades
-A landing page da GiftZone inclui:
-
-- Design Responsivo: O layout se adapta a diferentes tamanhos de tela (desktop, tablet, mobile).
-
-- Seção de Destaque (Hero Section): Apresentação atrativa da loja.
-
-- Visualização de Gift Cards: Exibição dos principais cartões-presente disponíveis.
-
-- Rodapé: Links úteis e informações de contato.
-
-
-👤 Autor
-- Gabriel Coutinho
-- Kaynnan
-- Ademir
-- Kauan
-- Caio
-
-<a href="https://instagram.com/gabrielcoutinholm" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
-<a href="https://www.linkedin.com/in/gabriel-coutinho-974864311/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> 
-  </a>
+## Collaboration
+This project was developed collaboratively with university colleagues and is used as a portfolio reference.
