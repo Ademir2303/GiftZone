@@ -17,3 +17,4 @@ It simulates an online gift card store and is used to demonstrate my current fro
 
 ## Collaboration
 This project was developed collaboratively with university colleagues and is used as a portfolio reference.
+ 
