@@ -16,5 +16,8 @@ It simulates an online gift card store and is used to demonstrate my current fro
 - CSS3
 
 ## Collaboration
-This project was developed collaboratively with university colleagues and is used as a portfolio reference.
- 
+- [Ademir](https://github.com/Ademir2303)  
+- [Gabriel Coutinho](https://github.com/gabrielcoutinhoDL)  
+- [Kaynnan Jeckson](https://github.com/KauzzN)
+- [Caio Renato](https://github.com/CaioRen4to)  
+- [Kauan Ferreira](https://github.com/kaunferrer-web) 
